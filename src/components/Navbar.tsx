@@ -63,7 +63,7 @@ export const Navbar = () => {
                     </span>
                 </div>
                 <img
-                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX-6i4SrTt65CGXNG3qN4uDLVoQudz8nPzhxmICdGY5g&s"
+                    src="https://lh3.googleusercontent.com/a/ACg8ocKmky0DXP3EM-R_3HJRi1CNCKJL7TG_z28Gd0KCs47pyEdYgF8Z=s96-c-rg-br100"
                     alt="logo"
                     className="w-9 h-9 rounded-full"
                 />
