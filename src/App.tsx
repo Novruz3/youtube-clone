@@ -12,10 +12,10 @@ function App() {
           <Navbar />
         </div>
         <div className="flex mt-2" style={{ height: "92.5vh" }}>
-          <Sidebar/>
+          <Sidebar />
           <Routes>
             <Route path="/" element={<Home />} />
-            <Route path="/videos/:id" element={<Video />} />
+            <Route path="/video/:id" element={<Video />} />
           </Routes>
         </div>
       </div>
